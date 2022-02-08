@@ -3,6 +3,7 @@
 ***steps:***
 
  - activate venv 
+ - install requirements
  - run `python manage.py migrate django_mailbox` to create
    the required database tables
    
